@@ -1,5 +1,5 @@
 # Weather__App
-Using Python requests
+<i><u>Using Python requests</u></i>
 
 
 <b>Project idea</b> – The weather app has provided us with an API from https://openweathermap.org/ through which we can gather
